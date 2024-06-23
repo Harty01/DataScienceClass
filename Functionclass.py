@@ -18,10 +18,19 @@
 # number=[1,2,4,5]
 # for num in number:
 # print num
-LG_in_kwara=['ilorin west','ekiti','oke-ero','ifelodun','barute','asa']
-for i in range(len(LG_in_kwara)):
-    print(LG_in_kwara[i][-1])
+# LG_in_kwara=['ilorin west','ekiti','oke-ero','ifelodun','barute','asa']
+# for i in range(len(LG_in_kwara)):
+#     print(LG_in_kwara[i][-1])
 
 
-for lg in LG_in_kwara:
-    print(lg[-1])
+# for lg in LG_in_kwara:
+#     print(lg[-1])
+# Country='Nigeria'
+# for x in Country:
+#     print (x)
+# print(len(Country))
+# sentence='my country is nigera'
+# new=sentence.split()
+# print(new)
+
+    

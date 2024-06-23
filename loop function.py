@@ -33,11 +33,11 @@
 #       print (x)
 # else:
 #       print('Mashallah')
-# for x in range (1,13,3):
-#     if x==9:break
-#     print(x)
-# else:
-#     print ('good')
+for x in range (1,13,3):
+    if x==9:break
+    print(x)
+else:
+    print ('good')
   
 for x in [0,1,2]:
     pass
