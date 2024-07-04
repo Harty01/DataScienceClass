@@ -18,9 +18,9 @@
 #     if x=='banana':
 #         continue
 #     print(x)
-# name=('ada','segun','dayo')
-# for x in name:
-#     print (x)
+name=('ada','segun','dayo')
+for x in name:
+    print (x)
 # for x in name [-1]:
 #         print (x)
 # for x in range (6):
@@ -33,14 +33,14 @@
 #       print (x)
 # else:
 #       print('Mashallah')
-for x in range (1,13,3):
-    if x==9:break
-    print(x)
-else:
-    print ('good')
+# for x in range (1,13,3):
+#     if x==9:break
+#     print(x)
+# else:
+#     print ('good')
   
-for x in [0,1,2]:
-    pass
+# for x in [0,1,2]:
+#     pass
 
     
             

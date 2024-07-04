@@ -5,10 +5,10 @@
 # print(4)
 # print(5)
 # print(6)
-# for num in range (6):
+# for num in range(6):
 #     print(num)
-# for num in range(3,37,3):
-#     print(num)
+for num in range(3,37,3):
+    print(num)
 #     print(num*4)
 
 # for num in range(1,13):
