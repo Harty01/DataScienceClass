@@ -1,6 +1,6 @@
-def greeting(name):
-    print('good morning',name)
-    print('good morning'+ name)
+# def greeting(name):
+#     print('good morning',name)
+#     print('good morning'+ name)
 #     greeting("bash")
 # def variable(x,y,z):
 #     print((x/y)+z)
@@ -84,19 +84,28 @@ def greeting(name):
 # numbers=[40,80,90,30,90,76]
 # total=0
 # print(addition(numbers))
-def total_sum(values):
- total=0
- for i in values:
-     total=total+i
-# print(total_sum(numbers))
- return total
-numbers=[40,80,90,30,90,76]
-ans=total_sum(numbers) 
-print(ans)
-#     return ans
-# age=total_sum(numbers)
-# print(age)
-# numberlength=len(numbers)
+# def total_sum(values):
+#  total=0
+#  for i in values:
+#      total=total+i
+# # print(total_sum(numbers))
+# #  return total
+# # numbers=[40,80,90,30,90,76]
+# # ans=total_sum(numbers) 
+# # print(ans)
+# #     return ans
+# # age=total_sum(numbers)
+# # print(age)
+# # numberlength=len(numbers)
 # average_age=age/numberlength
 # print(average_age)
+#Write a function that add it argument to the end of a list 
+# def work(x,y):
+#    x.append(y)
+#    return x
+
+# list=["geography","biology","chemistry"]
+# new_list=["mathematics","technology"]
+# results=work(list,new_list)
+# print(results)
 
